@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "images/burger.jpg",
+       " title": "Burger",
+        "price": 64,
+        "description": "description",
+        "rating": 4.8
+    },
+    {
+        "id": 1,
+        "image": "images/fati.jpg",
+       " title": "Tajin",
+        "price": 180,
+        "description": "description",
+        "rating": 5.2
+    },
+    {
+        "id": 1,
+        "image": "images/OIP.jpg",
+       " title": "Checken",
+        "price": 64,
+        "description": "description",
+        "rating": 4.8
+    },
+    {
+        "id": 1,
+        "image": "images/poisson-clipart-plat-3.jpg",
+       " title": "Poisson",
+        "price": 45,
+        "description": "description",
+        "rating": 4.8
+    },
+    {
+        "id": 1,
+        "image": "images/pizzahut.jpg",
+       " title": "Pitzza",
+        "price": 64,
+        "description": "description",
+        "rating": 4.8
+    },
+    {
+        "id": 1,
+        "image": "images/flipping.jpg",
+       " title": "Pasta",
+        "price":80,
+        "description": "description",
+        "rating": 6.0
+    }
+]

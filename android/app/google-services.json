@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207184945399",
+    "project_id": "myfirstapllication",
+    "storage_bucket": "myfirstapllication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207184945399:android:31e8d0f12ad044d4a7b3f2",
+        "android_client_info": {
+          "package_name": "com.example.rest_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207184945399-1a644s8t9veb7fakgepkbr07ie5ha9i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyXYuTXMOmFWxQrCr4xorJtgXhkNDZb0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207184945399-1a644s8t9veb7fakgepkbr07ie5ha9i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
